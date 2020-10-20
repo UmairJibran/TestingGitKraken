@@ -1,0 +1,24 @@
+{
+   "name": "testing_gitkraken",
+   "version": "1.0.0",
+   "description": "TestingGitKraken",
+   "main": "sercer.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon server.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/UmairJibran/TestingGitKraken.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/UmairJibran/TestingGitKraken/issues"
+   },
+   "homepage": "https://github.com/UmairJibran/TestingGitKraken#readme",
+   "dependencies": {
+      "express": "^4.17.1"
+   }
+}
